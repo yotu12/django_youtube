@@ -1,4 +1,4 @@
-# django_zero_to_instagram
+# django_zero_to_instagram_devops_youtube
 
 장고를 이용한 인스타그램 클론 코딩입니다.
 
